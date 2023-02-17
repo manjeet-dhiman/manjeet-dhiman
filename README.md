@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Python, SQLite**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manjeet-dhiman?tab=repositories](https://github.com/manjeet-dhiman?tab=repositories)
+- 👨‍💻 Complete list of my projects are available at [https://github.com/manjeet-dhiman?tab=repositories](https://github.com/manjeet-dhiman?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
