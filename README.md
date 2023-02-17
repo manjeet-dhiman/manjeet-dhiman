@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **manjeet-dhiman/manjeet-dhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Manjeet Dhiman</h1>
+<h1 align="center">Hi 👋, I'm Manjeet</h1>
 <h3 align="center">An aspiring software engineer from London, UK.</h3>
 
 - 🌱 I’m currently learning **Python, SQLite**
